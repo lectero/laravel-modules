@@ -1,5 +1,5 @@
 {
-  "name": "nwidart/laravel-modules",
+  "name": "lectero/laravel-modules",
   "description": "Laravel Module management",
   "keywords": [
     "modules",
@@ -11,14 +11,14 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "Nicolas Widart",
-      "email": "n.widart@gmail.com",
-      "homepage": "https://nicolaswidart.com",
+      "name": "Jimmi Hansen",
+      "email": "jimmi@xevotech.com",
+      "homepage": "",
       "role": "Developer"
     }
   ],
   "require": {
-    "php": ">=7.3",
+    "php": ">=8.0",
     "ext-json": "*"
   },
   "require-dev": {
